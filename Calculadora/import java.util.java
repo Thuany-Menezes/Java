@@ -17,10 +17,10 @@ public class Main{
         n2 = input.nextInt();
 
         System.out.println("Escolha uma operação:");
-        System.out.println("1.Soma:");
-        System.out.println("2.Subtração:");
-        System.out.println("3.Divisão:");
-        System.out.println("4.Multiplicação:");
+        System.out.println("1.Soma");
+        System.out.println("2.Subtração");
+        System.out.println("3.Divisão");
+        System.out.println("4.Multiplicação");
 
         operacao = input.nextInt();
 
