@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Lampada{
   private int estado;
+  
   public Lampada() {
     this.estado = 0; //inicia a lampada desligada por padrão
   }
